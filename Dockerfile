@@ -1,2 +1,2 @@
-FROM  nginx/nginx-ingress:2.4.1
+FROM  docker.io/calico/cni:v3.24.4
 
