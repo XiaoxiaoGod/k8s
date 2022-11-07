@@ -1,1 +1,1 @@
-FROM  k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM  grafana/grafana:8.5.5
