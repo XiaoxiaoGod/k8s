@@ -1,1 +1,1 @@
-FROM   k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
+FROM   quay.io/brancz/kube-rbac-proxy:v0.12.0
