@@ -1,1 +1,1 @@
-FROM   jimmidyson/configmap-reload:v0.5.0
+FROM   registry.k8s.io/ingress-nginx/controller
