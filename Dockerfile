@@ -1,1 +1,1 @@
-FROM    grafana/grafana:8.5.5
+FROM    docker.io/calico/node:v3.24.5
