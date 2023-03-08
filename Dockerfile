@@ -1,1 +1,1 @@
-FROM   grafana/grafana:9.2.4
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
